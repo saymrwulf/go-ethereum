@@ -2,3 +2,4 @@
 2014-01-12T03:52:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2014-01-12T08:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2014-02-15T23:05:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2014-02-15T05:02:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
