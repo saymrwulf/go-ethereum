@@ -5,3 +5,4 @@
 2014-02-15T05:02:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2014-02-15T06:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2014-02-15T02:20:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2014-03-19T02:36:00 - Refactor for clarity, might break a few tests though (go-ethereum)
