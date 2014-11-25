@@ -26,3 +26,4 @@
 2014-10-24T00:55:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2014-10-24T02:21:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2014-11-25T21:32:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2014-11-25T03:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
