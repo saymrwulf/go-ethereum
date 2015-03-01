@@ -28,3 +28,4 @@
 2014-11-25T21:32:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2014-11-25T03:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2015-03-01T00:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2015-03-01T21:23:00 - Minor doc updates: linking to article on quantization (go-ethereum)
