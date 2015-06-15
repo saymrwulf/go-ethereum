@@ -31,3 +31,4 @@
 2015-03-01T21:23:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2015-03-01T17:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2015-03-09T05:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2015-06-15T03:37:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
