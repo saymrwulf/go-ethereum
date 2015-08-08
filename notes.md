@@ -33,3 +33,4 @@
 2015-03-09T05:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2015-06-15T03:37:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2015-08-08T04:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2015-08-08T20:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
