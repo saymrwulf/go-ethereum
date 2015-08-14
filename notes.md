@@ -36,3 +36,4 @@
 2015-08-08T20:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2015-08-08T20:03:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2015-08-14T23:30:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2015-08-14T22:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
