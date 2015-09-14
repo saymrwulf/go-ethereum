@@ -38,3 +38,4 @@
 2015-08-14T23:30:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2015-08-14T22:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2015-08-14T07:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2015-09-14T07:15:00 - Implementing approach from a new paper read last night (go-ethereum)
