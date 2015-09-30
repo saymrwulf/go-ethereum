@@ -45,3 +45,4 @@
 2015-09-30T19:46:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2015-09-30T06:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2015-09-30T23:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2015-09-30T22:45:00 - Late-night bugfix on financial RL environment (go-ethereum)
