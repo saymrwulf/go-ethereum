@@ -43,3 +43,4 @@
 2015-09-14T19:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2015-09-29T00:44:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2015-09-30T19:46:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2015-09-30T06:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
