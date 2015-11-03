@@ -47,3 +47,4 @@
 2015-09-30T23:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2015-09-30T22:45:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2015-11-03T05:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2015-11-03T05:52:00 - Implementing approach from a new paper read last night (go-ethereum)
