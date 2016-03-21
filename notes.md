@@ -52,3 +52,4 @@
 2015-11-03T02:48:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2015-12-05T06:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2016-02-11T06:23:00 - Implementing approach from a new paper read last night (go-ethereum)
+2016-03-21T19:19:00 - Minor doc updates: linking to article on quantization (go-ethereum)
