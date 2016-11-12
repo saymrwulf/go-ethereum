@@ -66,3 +66,4 @@
 2016-11-12T18:21:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2016-11-12T17:26:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2016-11-12T08:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2016-11-12T08:38:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
