@@ -73,3 +73,4 @@
 2016-12-17T18:07:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2017-01-16T02:27:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2017-01-16T06:56:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
+2017-01-16T04:01:00 - Refactor for clarity, might break a few tests though (go-ethereum)
