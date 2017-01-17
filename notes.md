@@ -74,3 +74,4 @@
 2017-01-16T02:27:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2017-01-16T06:56:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2017-01-16T04:01:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2017-01-17T08:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
