@@ -83,3 +83,4 @@
 2017-01-30T05:54:00 - Implementing approach from a new paper read last night (go-ethereum)
 2017-01-30T04:04:00 - Implementing approach from a new paper read last night (go-ethereum)
 2017-02-19T06:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2017-02-19T22:23:00 - Refactor for clarity, might break a few tests though (go-ethereum)
