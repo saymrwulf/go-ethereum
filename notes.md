@@ -96,3 +96,4 @@
 2017-05-09T06:48:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2017-08-01T22:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2017-08-01T07:35:00 - Implementing approach from a new paper read last night (go-ethereum)
+2017-08-01T00:10:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
