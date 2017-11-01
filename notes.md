@@ -105,3 +105,4 @@
 2017-09-16T04:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2017-10-01T06:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2017-10-09T02:45:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2017-11-01T22:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
