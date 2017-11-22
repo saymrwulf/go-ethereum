@@ -110,3 +110,4 @@
 2017-11-01T02:14:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2017-11-01T00:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2017-11-22T23:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2017-11-22T18:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
