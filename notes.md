@@ -112,3 +112,4 @@
 2017-11-22T23:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2017-11-22T18:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2017-11-22T22:25:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
+2017-11-24T06:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
