@@ -117,3 +117,4 @@
 2017-11-24T05:40:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2018-01-19T06:39:00 - Implementing approach from a new paper read last night (go-ethereum)
 2018-02-04T06:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2018-02-04T22:32:00 - Implementing approach from a new paper read last night (go-ethereum)
