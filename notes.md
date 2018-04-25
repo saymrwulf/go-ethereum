@@ -121,3 +121,4 @@
 2018-02-04T17:54:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2018-03-08T01:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2018-04-26T20:25:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2018-04-26T01:56:00 - Implementing approach from a new paper read last night (go-ethereum)
