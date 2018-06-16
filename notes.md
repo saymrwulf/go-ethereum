@@ -123,3 +123,4 @@
 2018-04-26T20:25:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2018-04-26T01:56:00 - Implementing approach from a new paper read last night (go-ethereum)
 2018-06-16T18:44:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2018-06-16T07:58:00 - Implementing approach from a new paper read last night (go-ethereum)
