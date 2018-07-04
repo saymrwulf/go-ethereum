@@ -125,3 +125,4 @@
 2018-06-16T18:44:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2018-06-16T07:58:00 - Implementing approach from a new paper read last night (go-ethereum)
 2018-06-16T05:59:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2018-07-04T19:45:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
