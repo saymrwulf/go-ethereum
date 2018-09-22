@@ -129,3 +129,4 @@
 2018-07-04T02:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2018-07-04T02:52:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2018-07-04T22:05:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2018-09-22T21:24:00 - Implementing approach from a new paper read last night (go-ethereum)
