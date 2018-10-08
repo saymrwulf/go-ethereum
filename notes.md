@@ -133,3 +133,4 @@
 2018-09-22T17:23:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2018-09-22T04:43:00 - Implementing approach from a new paper read last night (go-ethereum)
 2018-09-22T07:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2018-10-08T04:45:00 - Minor doc updates: linking to article on quantization (go-ethereum)
