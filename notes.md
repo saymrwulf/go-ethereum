@@ -135,3 +135,4 @@
 2018-09-22T07:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2018-10-08T04:45:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2018-10-15T03:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2018-11-25T23:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
