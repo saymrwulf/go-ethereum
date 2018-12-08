@@ -139,3 +139,4 @@
 2018-11-25T20:07:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2018-11-25T21:51:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2018-11-25T18:51:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2018-12-08T18:29:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
