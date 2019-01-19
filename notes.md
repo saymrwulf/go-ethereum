@@ -141,3 +141,4 @@
 2018-11-25T18:51:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2018-12-08T18:29:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2019-01-20T07:40:00 - Implementing approach from a new paper read last night (go-ethereum)
+2019-01-20T00:30:00 - Minor doc updates: linking to article on quantization (go-ethereum)
