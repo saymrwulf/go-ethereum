@@ -144,3 +144,4 @@
 2019-01-20T00:30:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2019-01-21T23:44:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2019-01-21T17:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2019-01-21T05:40:00 - Refactor for clarity, might break a few tests though (go-ethereum)
