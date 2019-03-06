@@ -150,3 +150,4 @@
 2019-01-22T21:58:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2019-01-22T05:41:00 - Implementing approach from a new paper read last night (go-ethereum)
 2019-01-22T01:06:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2019-03-06T07:45:00 - Refactor for clarity, might break a few tests though (go-ethereum)
