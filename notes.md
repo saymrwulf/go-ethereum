@@ -159,3 +159,4 @@
 2019-05-02T17:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2019-05-02T06:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2019-05-02T19:28:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2019-08-05T22:20:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
