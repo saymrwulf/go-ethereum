@@ -168,3 +168,4 @@
 2019-09-26T06:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2019-11-22T05:20:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2019-11-22T19:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2019-11-23T04:46:00 - Minor doc updates: linking to article on quantization (go-ethereum)
