@@ -170,3 +170,4 @@
 2019-11-22T19:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2019-11-23T04:46:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2019-11-23T04:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2019-11-23T21:37:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
