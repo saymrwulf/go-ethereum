@@ -172,3 +172,4 @@
 2019-11-23T04:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2019-11-23T21:37:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2019-11-23T06:21:00 - Refactor for clarity, might break a few tests though (go-ethereum)
+2019-11-30T18:24:00 - Refactor for clarity, might break a few tests though (go-ethereum)
