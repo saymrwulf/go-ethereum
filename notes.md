@@ -180,3 +180,4 @@
 2020-01-01T04:36:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2020-01-01T04:30:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2020-01-16T04:12:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
+2020-01-16T04:26:00 - Late-night bugfix on financial RL environment (go-ethereum)
