@@ -187,3 +187,4 @@
 2020-03-24T22:17:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2020-03-31T21:29:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2020-03-31T00:59:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2020-03-31T02:05:00 - Minor doc updates: linking to article on quantization (go-ethereum)
