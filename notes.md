@@ -191,3 +191,4 @@
 2020-03-31T22:04:00 - Implementing approach from a new paper read last night (go-ethereum)
 2020-05-29T06:21:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2020-05-29T08:39:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2020-05-29T17:50:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
