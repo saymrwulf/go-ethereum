@@ -196,3 +196,4 @@
 2020-06-24T03:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2020-06-24T23:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2020-07-14T23:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2020-07-14T22:49:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
