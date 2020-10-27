@@ -199,3 +199,4 @@
 2020-07-14T22:49:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2020-10-27T05:54:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2020-10-27T07:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2020-10-27T05:08:00 - Late-night bugfix on financial RL environment (go-ethereum)
