@@ -202,3 +202,4 @@
 2020-10-27T05:08:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2020-10-27T01:38:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2020-12-12T00:10:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2020-12-28T02:07:00 - Late-night bugfix on financial RL environment (go-ethereum)
