@@ -208,3 +208,4 @@
 2020-12-28T03:23:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2021-02-12T21:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2021-04-29T23:17:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2021-04-29T06:02:00 - Implementing approach from a new paper read last night (go-ethereum)
