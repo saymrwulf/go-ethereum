@@ -217,3 +217,4 @@
 2021-05-11T18:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2021-05-17T00:44:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2021-05-17T21:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2021-05-17T05:45:00 - Late-night bugfix on financial RL environment (go-ethereum)
