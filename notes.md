@@ -218,3 +218,4 @@
 2021-05-17T00:44:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2021-05-17T21:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2021-05-17T05:45:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2021-06-17T00:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
