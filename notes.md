@@ -221,3 +221,4 @@
 2021-06-17T00:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2021-06-17T21:15:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2021-08-27T08:37:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2021-08-27T17:20:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
