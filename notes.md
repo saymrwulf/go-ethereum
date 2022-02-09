@@ -225,3 +225,4 @@
 2021-08-27T20:42:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2022-02-07T23:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2022-02-07T07:01:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2022-02-09T03:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
