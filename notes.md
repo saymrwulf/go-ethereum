@@ -235,3 +235,4 @@
 2022-03-24T00:58:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2022-03-24T18:28:00 - Implementing approach from a new paper read last night (go-ethereum)
 2022-04-02T21:33:00 - Implementing approach from a new paper read last night (go-ethereum)
+2022-04-08T06:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
