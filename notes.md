@@ -248,3 +248,4 @@
 2022-09-02T23:50:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2022-09-02T05:08:00 - Implementing approach from a new paper read last night (go-ethereum)
 2022-12-15T02:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2022-12-15T21:20:00 - Minor doc updates: linking to article on quantization (go-ethereum)
