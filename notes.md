@@ -250,3 +250,4 @@
 2022-12-15T02:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
 2022-12-15T21:20:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2022-12-15T20:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2022-12-15T07:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
