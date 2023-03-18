@@ -254,3 +254,4 @@
 2023-01-15T22:21:00 - Implementing approach from a new paper read last night (go-ethereum)
 2023-03-04T20:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
 2023-03-18T23:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
+2023-03-18T01:55:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
