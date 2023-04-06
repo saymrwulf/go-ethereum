@@ -260,3 +260,4 @@
 2023-04-06T23:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2023-04-06T02:35:00 - Refactor for clarity, might break a few tests though (go-ethereum)
 2023-04-06T02:37:00 - Late-night bugfix on financial RL environment (go-ethereum)
+2023-04-06T03:05:00 - Minor doc updates: linking to article on quantization (go-ethereum)
