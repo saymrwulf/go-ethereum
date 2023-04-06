@@ -257,3 +257,4 @@
 2023-03-18T01:55:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2023-03-18T18:12:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2023-03-18T00:43:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
+2023-04-06T23:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
