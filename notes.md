@@ -264,3 +264,4 @@
 2023-05-20T23:56:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2023-05-20T22:19:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2023-05-20T04:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2023-05-27T19:44:00 - Refactor for clarity, might break a few tests though (go-ethereum)
