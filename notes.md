@@ -271,3 +271,4 @@
 2023-06-08T01:24:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2023-06-09T05:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2023-06-09T18:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
+2023-07-17T04:52:00 - Implementing approach from a new paper read last night (go-ethereum)
