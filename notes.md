@@ -278,3 +278,4 @@
 2024-01-24T22:56:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2024-01-24T20:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
 2024-01-24T08:08:00 - Implementing approach from a new paper read last night (go-ethereum)
+2024-01-24T01:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
