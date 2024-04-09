@@ -285,3 +285,4 @@
 2024-02-12T00:57:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2024-02-12T21:55:00 - Late-night bugfix on financial RL environment (go-ethereum)
 2024-04-09T17:10:00 - Minor doc updates: linking to article on quantization (go-ethereum)
+2024-04-09T04:45:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
