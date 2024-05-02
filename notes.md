@@ -287,3 +287,4 @@
 2024-04-09T17:10:00 - Minor doc updates: linking to article on quantization (go-ethereum)
 2024-04-09T04:45:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
 2024-05-02T08:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (go-ethereum)
+2024-05-02T04:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (go-ethereum)
