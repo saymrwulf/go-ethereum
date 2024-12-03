@@ -304,3 +304,4 @@
 2024-12-03T01:06:00 - Implementing approach from a new paper read last night (go-ethereum)
 2024-12-03T02:48:00 - Implementing approach from a new paper read last night (go-ethereum)
 2024-12-03T02:31:00 - Quick fix, referencing a known issue from the official repo (go-ethereum)
+2024-12-03T03:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (go-ethereum)
